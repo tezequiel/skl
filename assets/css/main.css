@@ -434,7 +434,7 @@ h6 {
   --background-color: rgba(255, 255, 255, 0);
   color: var(--default-color);
   background-color: var(--background-color);
-  font-size: 14px;
+  font-size: 10px;
   padding: 40px 0 0 0;
   position: relative;
 }
